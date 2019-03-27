@@ -1,0 +1,12 @@
+{
+    "keys": {
+        "maps": "q8t3dSraVXsHTlBbGO6LVg0lgSlqxXB2",
+        "routing": "q8t3dSraVXsHTlBbGO6LVg0lgSlqxXB2",
+        "search": "q8t3dSraVXsHTlBbGO6LVg0lgSlqxXB2",
+        "traffic": "q8t3dSraVXsHTlBbGO6LVg0lgSlqxXB2",
+        "trafficFlow": "q8t3dSraVXsHTlBbGO6LVg0lgSlqxXB2"
+    },
+    "paths": {
+        "basePath": "/sdk"
+    }
+}
